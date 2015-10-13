@@ -1,0 +1,101 @@
+body{
+
+   background-color:#f0f8ff;
+   background-image: url("http://www.desktopaper.com/wp-content/uploads/blue-sky-wallpaper-hd-dekstop.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: Helvetica;
+   padding-bottom: 100px;
+   padding-left:90px;
+   padding-right:90px;
+   
+}
+
+img{
+   height: 300px;
+   width: 400px;
+
+}
+
+h1{
+    color: #191970;
+    margin-left: 420px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+	}
+
+h2{
+    text-decoration: underline;
+    padding: 10px;
+	}
+
+
+.honorable ul li {
+		text-transform: Uppercase;
+		font-weight: bold;
+		}
+
+
+.honorable{
+		background-color: #1E90FF;
+		border: 2px solid #F5FFFA;
+		padding: 15px;
+		margin-bottom: 5px;
+		margin-top: 10px;
+		}
+table{
+	border-color: #F5FFFA;
+	}
+
+a{
+   text-decoration: none;
+
+}
+
+a.hover{
+   color: Green;
+}
+
+
+.second{
+
+padding: 15px;
+text-align: center;
+
+}
+
+.third{
+
+padding: 15px;
+font-size: 13px;
+
+}
+
+footer{ 
+        display: block;
+	position: relative;
+	top: 70px;
+	background-color:#E0FFFF;
+	border: 2px solid #F5FFFA;
+        padding:20px;
+	padding-left: 20px;
+	padding-right: 20px; 
+	margin-top: 17px;
+	margin-bottom:0px;
+			
+}
+
+
+#button{
+	position: relative;
+	border: 2px solid gray;
+	border-radius: 50px;
+	background-color: #E0FFFF;
+	height: 40px;
+	width: 120px;
+	margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom:15px;
+	float: right;	
+}
